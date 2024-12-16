@@ -1,0 +1,40 @@
+Vehicle ID: 1
+Truck Plates: GRV-1234
+Driver Name: Torben Nightshade
+Route: Munich, Innsbruck, Nuremberg, Stuttgart, Frankfurt, Marseille, Munich
+Orderers: Henry LLC, Clark, Brooks and Young, Carpenter, Gonzalez and Perez, Perez, Barron and Dixon, Charles Ltd.
+
+----------------------------------------
+
+Vehicle ID: 2
+Truck Plates: SLM-9876
+Driver Name: Elara Windrunner
+Route: Munich, Zurich, Turin, Rom, Vienna, Budapest, Munich
+Orderers: Martin-Davis, Paulsen-James LLC, Braun-Walker, Brown-Esparza, Smith-Henson
+
+----------------------------------------
+
+Vehicle ID: 3
+Truck Plates: VRX-3456
+Driver Name: Dorian Stonefist
+Route: Munich, Leipzig, Dresden, Hannover, Hamburg, Munich
+Orderers: Whitney-Moss, Johnson-Owens, Thompson, Curry and Sanchez, Howell PLC
+
+----------------------------------------
+
+Vehicle ID: 4
+Truck Plates: FLM-4321
+Driver Name: Seraphina Brightstar
+Route: Munich, Prague, Brno, Paris, Munich
+Orderers: Heberttown, Parkerberg, Silva, Hall and Walker
+
+----------------------------------------
+
+Vehicle ID: 5
+Truck Plates: KLN-6789
+Driver Name: Lysander Moonshadow
+Route: Munich, Bratislava, Warsaw, Munich
+Orderers: Glover-Richardson, Jones and Sons
+
+----------------------------------------
+
